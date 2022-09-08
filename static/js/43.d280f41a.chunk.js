@@ -1,0 +1,1 @@
+(this["webpackJsonpfront-js"]=this["webpackJsonpfront-js"]||[]).push([[43],{1536:function(e,s,t){"use strict";t.r(s);t(2);var n=t(510),c=t(512),o=(t(270),t(543),t(894)),a=t(10);s.default=function(){return Object(a.jsxs)("div",{className:"container",children:[Object(a.jsx)(n.a,{routeName:"3pool/volumeperCoin"}),Object(a.jsx)(c.a,{}),Object(a.jsx)(o.a,{})]})}}}]);
